@@ -1,0 +1,13 @@
+D:\winform\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+D:\winform\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+D:\winform\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+D:\winform\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
+D:\winform\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.PixelDialog.resources
+D:\winform\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+E:\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+E:\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+E:\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+E:\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.PixelDialog.resources
+E:\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+E:\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+E:\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
